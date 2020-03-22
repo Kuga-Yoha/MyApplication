@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application1</string>
+    <string name="name">Name</string>
+    <string name="comment">Comment</string>
+    <string name="vcs">VCS</string>
+    <string name="button">Button</string>
+    <string name="kugavathanan">kugavathanan</string>
+    <string name="june_batch2018">June Batch2018</string>
 </resources>
